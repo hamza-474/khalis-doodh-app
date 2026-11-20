@@ -1,6 +1,13 @@
 # Khalis Doodh — Verified Milk Delivery Across Punjab
 
 **Live demo: https://khalis-doodh.onrender.com**
+## Video Tutorial
+
+Watch the complete website walkthrough on YouTube:
+
+[![Khalis Doodh - Complete Website Tutorial](https://img.youtube.com/vi/-bEGHr_-zak/hqdefault.jpg)](https://www.youtube.com/watch?v=-bEGHr_-zak)
+
+Full tutorial: https://www.youtube.com/watch?v=-bEGHr_-zak
 
 Khalis Doodh is a verification-first milk marketplace for Punjab, Pakistan. It connects households with local milk sellers (gwalas) they can trust: every gwala is CNIC-verified and approved by the admin before going live, every delivery is recorded in a shared monthly ledger (khata), and customers pay their gwala directly at month end — the platform never holds sale money.
 
@@ -9,6 +16,7 @@ Khalis Doodh is a verification-first milk marketplace for Punjab, Pakistan. It c
 - **Customers (always free)** — browse verified gwalas in their area, subscribe to a daily milk plan, pause or skip days, follow the monthly khata entry by entry, and rate their gwala once every 30 days.
 - **Gwalas** — enroll with CNIC and area proof, get approved, manage daily delivery stops, mark deliveries, sell dairy products (dahi, desi ghee, makhan, lassi and more) and track earnings from the khata.
 - **Admin (hidden login)** — approves or rejects gwala enrollments, decides quality complaints, manages subscription fees and coverage areas, and can suspend or remove a gwala.
+- 
 
 ## Business model
 
